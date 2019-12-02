@@ -3,7 +3,7 @@
 > A boilerplate to start writing your NPM modules in ES6 using Babel.
 
 ## Install
-
+[![Build Status](https://dev.azure.com/DanielCyr6166/Parts%20Unlimited/_apis/build/status/deep8lue.babel-npm-module-example?branchName=master)](https://dev.azure.com/DanielCyr6166/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
 ```
 $ npm install babel-npm-module-example --save
 ```
