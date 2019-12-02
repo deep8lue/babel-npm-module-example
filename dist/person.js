@@ -15,6 +15,7 @@ var Person = function () {
     _classCallCheck(this, Person);
 
     this.name = name;
+    this.name= "nametest";
     this.age = age;
   }
 
